@@ -20,19 +20,29 @@ The organization wants to launch a marketing campaign targeting a specific audie
 ## Task 2
 ### Frequency distribution
 
-
+![Frequency distibution](frequency-distribution.png)
 
 This information is biased, as the people who are included in the database is, usually, the one who signed the contract.
 
+![histogram](histogram-age.png)
 
+![Age distribution](age-distribution.png)
+
+![cumulative](cumulative%20by%20state.png)
 
 A possible scenario would be to invest in the top 80% of the locations. 
 
 ### Variability
 
+![Stats](mean-median-mode.png)
+
+![Stats](variability.png)
 
 The Standard deviation is around 13 years, showing how disperse the data is.
 
+![correlation](correlation.png)
+
+![scatter](scatter.png)
 
 The correlation coefficient is very low, showing these two variables move in opposite directions, hence, they do not have a relationship whatsoever.
 
