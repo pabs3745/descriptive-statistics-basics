@@ -24,9 +24,9 @@ The organization wants to launch a marketing campaign targeting a specific audie
 
 This information is biased, as the people who are included in the database is, usually, the one who signed the contract.
 
-![histogram](histogram-age.png)
+![histogram](histogram%20age.png)
 
-![Age distribution](age-distribution.png)
+![Age distribution](age%20distribution.png)
 
 ![cumulative](cumulative%20by%20state.png)
 
